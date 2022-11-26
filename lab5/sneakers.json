@@ -1,0 +1,25 @@
+{
+    "sneakers":[
+        {
+            "id": 0,
+            "name": "",
+            "size": 42,
+            "image_link": "img/1.jpg"
+        },{
+            "id": 1,
+            "name": "",
+            "size": 40,
+            "image_link": "img/2.jpg"
+        },{
+            "id": 2,
+            "name": "",
+            "size": 41,
+            "image_link": "img/3.jpg"
+        },{
+            "id": 3,
+            "name": "",
+            "size": 40,
+            "image_link": "img/4.jpg"
+        }
+    ]
+}
