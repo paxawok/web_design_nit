@@ -1,0 +1,25 @@
+{
+    "sneakers":[
+        {
+            "id": 0,
+            "name": "Кроси",
+            "size": 42,
+            "image_link": "img/1.jpg"
+        },{
+            "id": 1,
+            "name": "Кроси 1",
+            "size": 40,
+            "image_link": "img/2.jpg"
+        },{
+            "id": 2,
+            "name": "Кроси 2",
+            "size": 41,
+            "image_link": "img/3.jpg"
+        },{
+            "id": 3,
+            "name": "Кроси 3",
+            "size": 40,
+            "image_link": "img/4.jpg"
+        }
+    ]
+}
